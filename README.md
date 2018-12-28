@@ -2,4 +2,4 @@
 
 Algoritma ve Programlamalar Proje Ödevi
 
-w/ https://https://github.com/CodeReign
+w/ https://github.com/CodeReign
